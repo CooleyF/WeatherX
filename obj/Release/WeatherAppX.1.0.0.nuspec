@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WeatherAppX</id>
+    <version>1.0.0</version>
+    <authors>WeatherAppX</authors>
+    <owners>WeatherAppX</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.CSharp" version="4.6.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Net.Http" version="2.2.29" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+        <dependency id="SharpDX.Direct2D1" version="4.2.0" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Essentials" version="1.3.1" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Forms" version="4.3.0.947036" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\James Cooley\source\repos\WeatherAppX\WeatherAppX\bin\Release\netstandard2.0\WeatherAppX.dll" target="lib\netstandard2.0\WeatherAppX.dll" />
+  </files>
+</package>

@@ -1,0 +1,15 @@
+C:\Users\James Cooley\source\repos\WeatherAppX\WeatherAppX\bin\Debug\netstandard2.0\WeatherAppX.deps.json
+C:\Users\James Cooley\source\repos\WeatherAppX\WeatherAppX\bin\Debug\netstandard2.0\WeatherAppX.dll
+C:\Users\James Cooley\source\repos\WeatherAppX\WeatherAppX\bin\Debug\netstandard2.0\ref\WeatherAppX.dll
+C:\Users\James Cooley\source\repos\WeatherAppX\WeatherAppX\bin\Debug\netstandard2.0\WeatherAppX.pdb
+C:\Users\James Cooley\source\repos\WeatherAppX\WeatherAppX\obj\Debug\netstandard2.0\WeatherAppX.csprojAssemblyReference.cache
+C:\Users\James Cooley\source\repos\WeatherAppX\WeatherAppX\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\James Cooley\source\repos\WeatherAppX\WeatherAppX\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\James Cooley\source\repos\WeatherAppX\WeatherAppX\obj\Debug\netstandard2.0\WeatherPage.xaml.g.cs
+C:\Users\James Cooley\source\repos\WeatherAppX\WeatherAppX\obj\Debug\netstandard2.0\WeatherAppX.csproj.CoreCompileInputs.cache
+C:\Users\James Cooley\source\repos\WeatherAppX\WeatherAppX\obj\Debug\netstandard2.0\WeatherAppX.AssemblyInfoInputs.cache
+C:\Users\James Cooley\source\repos\WeatherAppX\WeatherAppX\obj\Debug\netstandard2.0\WeatherAppX.AssemblyInfo.cs
+C:\Users\James Cooley\source\repos\WeatherAppX\WeatherAppX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\James Cooley\source\repos\WeatherAppX\WeatherAppX\obj\Debug\netstandard2.0\WeatherAppX.dll
+C:\Users\James Cooley\source\repos\WeatherAppX\WeatherAppX\obj\Debug\netstandard2.0\ref\WeatherAppX.dll
+C:\Users\James Cooley\source\repos\WeatherAppX\WeatherAppX\obj\Debug\netstandard2.0\WeatherAppX.pdb
